@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactified-StopWatch/static/css/main.ff86ee6f.css",
+    "main.js": "/Reactified-StopWatch/static/js/main.f9421780.js",
+    "index.html": "/Reactified-StopWatch/index.html",
+    "main.ff86ee6f.css.map": "/Reactified-StopWatch/static/css/main.ff86ee6f.css.map",
+    "main.f9421780.js.map": "/Reactified-StopWatch/static/js/main.f9421780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff86ee6f.css",
+    "static/js/main.f9421780.js"
+  ]
+}
